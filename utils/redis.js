@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 import { createClient } from 'redis';
 
 class RedisClient {
